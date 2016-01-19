@@ -31,7 +31,7 @@ img {
 }
 
 ul li {
- display: inline-block;
+  display: inline-block;
 }
 
 ul a {
@@ -47,15 +47,15 @@ ul a:hover {
   background: grey;
 }
 
-.tabs{
-	width: 20%;
-	margin: 0 auto;
+.tabs {
+  width: 20%;
+  margin: 0 auto;
   padding: .5em;
   text-align: center;
-	text-decoration: none;
-	list-style-type: none;
+  text-decoration: none;
+  list-style-type: none;
 }
 
 .tabs > li {
-	display: inline-block;
+  display: inline-block;
 }
